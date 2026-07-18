@@ -1,0 +1,474 @@
+{
+  "schema_version": "1.0",
+  "concurso": 1262,
+  "tipo": "FS",
+  "data_analise": "2026-07-16T22:00:00-03:00",
+  "data_jogos": "2026-07-19",
+  "status": "publicado",
+  "visibilidade": "premium",
+  "meta": {
+    "taxa_acerto_historico_13": 0.55,
+    "acertos_concurso_anterior": 13,
+    "valor_acumulado": 850000.0
+  },
+  "jogos": [
+    {
+      "numero": 1,
+      "mandante": "Flamengo",
+      "visitante": "Vasco",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 2,
+      "mandante": "Palmeiras",
+      "visitante": "Corinthians",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T18:30:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 48,
+        "pX": 30,
+        "p2": 22
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "F01"
+      ],
+      "justificativa_curta": "Derby paulista. Palmeiras muito forte em casa no Allianz.",
+      "odd_mercado": {
+        "1": 2.0,
+        "X": 3.2,
+        "2": 3.8
+      }
+    },
+    {
+      "numero": 7,
+      "mandante": "Arsenal",
+      "visitante": "Man City",
+      "competicao": "Premier League",
+      "horario": "2026-07-19T12:30:00-03:00",
+      "e_classico": false,
+      "probabilidades": {
+        "p1": 33,
+        "pX": 32,
+        "p2": 35
+      },
+      "coluna_recomendada": "X2",
+      "coluna_segura": "2",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R05",
+        "F01"
+      ],
+      "justificativa_curta": "Jogo mais equilibrado da rodada. City leve favoritismo.",
+      "odd_mercado": {
+        "1": 2.8,
+        "X": 3.3,
+        "2": 2.6
+      }
+    },
+    {
+      "numero": 4,
+      "mandante": "Time 4A",
+      "visitante": "Time 4B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 5,
+      "mandante": "Time 5A",
+      "visitante": "Time 5B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 6,
+      "mandante": "Time 6A",
+      "visitante": "Time 6B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 7,
+      "mandante": "Time 7A",
+      "visitante": "Time 7B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 8,
+      "mandante": "Time 8A",
+      "visitante": "Time 8B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 9,
+      "mandante": "Time 9A",
+      "visitante": "Time 9B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 10,
+      "mandante": "Time 10A",
+      "visitante": "Time 10B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 11,
+      "mandante": "Time 11A",
+      "visitante": "Time 11B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 12,
+      "mandante": "Time 12A",
+      "visitante": "Time 12B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 13,
+      "mandante": "Time 13A",
+      "visitante": "Time 13B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    },
+    {
+      "numero": 14,
+      "mandante": "Time 14A",
+      "visitante": "Time 14B",
+      "competicao": "Brasileirão Série A",
+      "horario": "2026-07-19T16:00:00-03:00",
+      "e_classico": true,
+      "probabilidades": {
+        "p1": 52,
+        "pX": 28,
+        "p2": 20
+      },
+      "coluna_recomendada": "1X",
+      "coluna_segura": "1",
+      "zebra_alerta": false,
+      "modificadores_ativos": [
+        "R02",
+        "C01"
+      ],
+      "justificativa_curta": "Clássico no Maracanã. Fla favorito mas Vasco vem de 3 invictos.",
+      "odd_mercado": {
+        "1": 1.85,
+        "X": 3.4,
+        "2": 4.2
+      }
+    }
+  ],
+  "duplo_automatico": {
+    "jogo": 7,
+    "opcoes": [
+      "1",
+      "X"
+    ],
+    "motivo": "Jogo mais equilibrado"
+  },
+  "volante_recomendado": {
+    "colunas": [
+      "1X",
+      "1X",
+      "1X2",
+      "1",
+      "1X",
+      "1X",
+      "X2",
+      "1X",
+      "1X",
+      "1",
+      "1X",
+      "1X",
+      "1X",
+      "1"
+    ],
+    "probabilidade_acumulada": 0.0412,
+    "custo_estimado_duplos": 10,
+    "custo_estimado_triplos": 1
+  },
+  "top3_combinacoes": [
+    {
+      "id": "A",
+      "prob": 0.0412,
+      "volante": [
+        "1",
+        "1",
+        "X",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "X",
+        "1",
+        "1",
+        "X",
+        "1",
+        "1"
+      ],
+      "perfil": "Equilibrada"
+    },
+    {
+      "id": "B",
+      "prob": 0.0321,
+      "volante": [
+        "X",
+        "1",
+        "2",
+        "1",
+        "X",
+        "1",
+        "X",
+        "1",
+        "1",
+        "1",
+        "X",
+        "1",
+        "1",
+        "1"
+      ],
+      "perfil": "Zebra Controlada"
+    },
+    {
+      "id": "C",
+      "prob": 0.068,
+      "volante": [
+        "1",
+        "1",
+        "X",
+        "1",
+        "1",
+        "1",
+        "2",
+        "1",
+        "X",
+        "1",
+        "1",
+        "X",
+        "1",
+        "1"
+      ],
+      "perfil": "Favoritos"
+    }
+  ]
+}
